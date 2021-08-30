@@ -1,0 +1,89 @@
+/*  MICROTHEMER STYLES  */
+
+
+/*( Desktop grande )*/
+@media (min-width: 1200px) {
+
+	/*= Geral ===================== */
+
+	/** Geral >> verTodasAsModalidades-button **/
+	#kt-layout-id_2bd200-7e .kt-btn-svg-show-always {
+	border-style: solid !important;
+}
+
+	/** Geral >> verMaisFotos-button **/
+	#kt-layout-id_ca590d-1f .kt-btn-svg-show-always {
+	border-style: solid !important;
+}
+
+
+}
+
+
+/*( Tablet & celular )*/
+@media (max-width: 767px) {
+
+	/*= Geral ===================== */
+
+	/** Geral >> hero-section text **/
+	#kt-layout-id_278b90-4d p {
+	text-align: center !important;
+}
+
+	/** Geral >> modalidades-boxe-text **/
+	.kadence-column_7bd363-45 .has-theme-palette-8-color {
+	text-align: center !important;
+}
+
+	/** Geral >> modalidades-muaythai-text **/
+	.kadence-column_56db44-1c .has-theme-palette-8-color {
+	text-align: center !important;
+}
+
+	/** Geral >> modalidades-musculacao-text **/
+	.kadence-column_1e8e14-19 .has-theme-palette-8-color {
+	text-align: center !important;
+}
+
+	/** Geral >> modalidades-crossfit-text **/
+	.kadence-column_d20338-85 .has-theme-palette-8-color {
+	text-align: center !important;
+}
+
+	/** Geral >> Kt layout id ce3c14 a8 kt testimonial item 1 **/
+	#kt-layout-id_ce3c14-a8 .kt-testimonial-item-1 {
+	
+}
+
+	/** Geral >> faleConosco-hero-text **/
+	#kt-layout-id_990ff1-0c p {
+	text-align: center !important;
+}
+
+	/** Geral >> verMaisFotos-button **/
+	#kt-layout-id_ca590d-1f .kt-btn-svg-show-always {
+	border-style: solid !important;
+}
+
+	/** Geral >> verTodasAsModalidades-button **/
+	#kt-layout-id_2bd200-7e .kt-btn-svg-show-always {
+	border-style: solid !important;
+}
+
+
+}
+
+
+/*( Celular )*/
+@media (max-width: 480px) {
+
+	/*= Geral ===================== */
+
+	/** Geral >> verMaisFotos-button **/
+	#kt-layout-id_ca590d-1f .kt-btn-svg-show-always {
+	
+}
+
+
+}
+
